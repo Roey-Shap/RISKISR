@@ -1,0 +1,1 @@
+global.cur_room_extra_enemy_count = 2;

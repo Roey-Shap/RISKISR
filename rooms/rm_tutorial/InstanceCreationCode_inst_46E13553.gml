@@ -1,0 +1,2 @@
+
+isSpot = true;
